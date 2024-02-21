@@ -1,0 +1,10 @@
+A;B;C;D;CLASSE
+a1;b1;c1;d1;SIM
+a1;b1;c2;d1;NÃO
+a2;b2;c1;d1;SIM
+a2;b2;c2;d2;NÃO
+a1;b2;c2;d1;NÃO
+a2;b1;c2;d2;SIM
+a3;b2;c2;d2;SIM
+a1;b3;c1;d1;SIM
+a3;b1;c1;d1;NÃO
